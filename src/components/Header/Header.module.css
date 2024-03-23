@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  column-gap: 20px;
+}
+.nav {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}

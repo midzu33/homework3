@@ -1,0 +1,23 @@
+.main { 
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 20px;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 20px;
+  text-align: center;
+}
+
+.comment {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2px;
+  text-align: center;
+}
